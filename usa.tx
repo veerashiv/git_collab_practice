@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {`
-
+here editing this file adding to new line 
+this code moschip.
 hello i am siva i am changing something in this code 
 char str[100];`:
 printf("hello:moschip:");
