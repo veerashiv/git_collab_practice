@@ -18,7 +18,7 @@ int main()
 		}
 		printf("the repeated string :%s",str[i]);
 }
-void develop(int a, int b)
+int develop(int a, int b)
 {
 		sum=a+b;
 		printf("after summing the result will be :",sum=a+b);
