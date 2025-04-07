@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {`
+
+hello i am siva i am changing something in this code 
 char str[100];`:
 printf("hello:moschip:");
 scanf("%s:",str);
